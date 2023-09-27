@@ -1,0 +1,10 @@
+This	    this	    DET	    2	det
+semester	semester	NOUN	4	nsubj
+is	        be	        AUX	    4	aux
+going	    go	        VERB	0	root
+to	        to	        PART	8	mark
+be	        be	        AUX	    8	cop
+a	        a	        DET	    8	et
+lot	        lot	        NOUN	4	xcomp
+of	        of	        ADP	    10	case
+work	    work	    NOUN	8	nmod
